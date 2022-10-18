@@ -1,0 +1,30 @@
+*{
+    padding: 10px;
+    margin: 10px; ;
+    font-family: 'Josefin Sans', sans-serif;
+    box-sizing: border-box;
+    color: black;
+    background-color: rgb(17, 167, 84);
+    text-align: center;
+    justify-content: center;
+}
+h1
+{
+    margin: 20px 0px 20px;
+}
+.logo
+{
+height: 150vh;
+width: 100%;
+background-size: cover;
+background-position: center;
+}
+
+span
+{
+    color: brown;
+}
+.body
+{
+    background-color: rgb(17, 167, 84);
+}
